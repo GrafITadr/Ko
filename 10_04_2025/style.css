@@ -68,3 +68,6 @@ nav a {
 nav a:hover { 
     background-color: #8a8aaa; 
 } 
+p:hover { 
+align-self: center;
+}
